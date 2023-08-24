@@ -1,11 +1,11 @@
 # akhilsnair2017.github.io
-# Dr. Your Name
-## Postdoctoral Researcher in [Your Research Area]
+# Dr. Akhil S. Nair
+## Postdoctoral Researcher at Fritz-Haber Institute of the Max-Planck Society, Berlin, Germany
 
-Welcome to my personal website! I am a postdoctoral researcher currently working in the field of [Your Research Area]. Here, you can find information about my research interests, publications, and more.
+Welcome to my personal website! I am a postdoctoral researcher currently working in the field of Fritz-Haber Institute of the Max-Planck Society. Here, you can find information about my research interests, publications, and more.
 
 ### About Me
-I obtained my Ph.D. in [Your Field] from [Your University] in [Year]. My current research focuses on [Brief Description of Your Research Focus]. I am passionate about [Specific Research Interests] and enjoy [Hobbies or Interests related to your work].
+I obtained my Ph.D. in Computational material science from Indian Institute of technololgy  in [Year]. My current research focuses on [Brief Description of Your Research Focus]. I am passionate about [Specific Research Interests] and enjoy [Hobbies or Interests related to your work].
 
 ### Research Interests
 - [Research Interest 1]
