@@ -1,8 +1,13 @@
-body {
-  background-color: #121212;
+/* Specific styling for top menu bar */
+body.dark-mode .top-menu-bar {
+  background-color: #1e1e1e;
   color: #ffffff;
 }
 
-a {
+body.dark-mode .top-menu-bar a {
   color: #bb86fc;
+}
+
+body.dark-mode .top-menu-bar a:hover {
+  color: #ff79c6;
 }
