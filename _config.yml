@@ -27,7 +27,7 @@ author:
   bio              : "Postdoctoral Researcher"
   location         : "Berlin"
   employer         : "Fritz-Haber Institute of the Max-Planck Society"
-  uri              : # URL
+  URI              : "https://nomad.fhi.mpg.de/"
   email            : "nair@fhi-berlin.mpg.de" 
 
   # Academic websites
@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5723-3970"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Akhil-Nair-19"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
