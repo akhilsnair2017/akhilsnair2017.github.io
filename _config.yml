@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "akhil_photo.png"
   name             : "Akhil S. Nair"
   pronouns         : # example: "he/his"  
   bio              : "Postdoctoral Researcher"
