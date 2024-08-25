@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://akhilsnair.github.io/sitemap.xml
+Sitemap: https://akhilsnair2017.github.io/sitemap.xml
