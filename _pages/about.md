@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral researcher @<a href='https://nomad.fhi.mpg.de/'>NOMADlab</a>, Fritz-Haber Institute of the Max-Planck Institue, Berlin
 

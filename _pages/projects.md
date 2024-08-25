@@ -4,7 +4,7 @@ title: Research
 permalink: /projects/
 description: My research interests keep on constantly evolving and I let them be. On a broad sense, I try to understand properties and functions of materials, if possible in the most realistic sense. Following are some of the areas I am currely interested in and playing around
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---

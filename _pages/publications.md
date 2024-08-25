@@ -5,7 +5,7 @@ title: Publications
 description: Here are a few papers I have (co-)authored which I think could withstand a significance reduction with rapid developments in the field and may still be worthy of having a read.
 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
