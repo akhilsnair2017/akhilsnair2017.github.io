@@ -2,14 +2,13 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Most of my repos are hosted and can be found at my [gitlab](https://gitlab.com/akhilsnair)
+description: 
 nav: true
 nav_order: 4
 ---
 
-description: Most of my repos are hosted and can be found at my [gitlab](https://gitlab.com/akhilsnair)
+Most of my repos are hosted and can be found at [gitlab](https://gitlab.com/akhilsnair/)
 
-[AI-guided Workflow for the Discovery of Acid-Stable Oxides](https://gitlab.com/akhilsnair/sl-sisso)
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
