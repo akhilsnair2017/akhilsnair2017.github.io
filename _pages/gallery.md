@@ -40,11 +40,11 @@ nav_order: 6
 
 
 **ASE Hackathon DTU (2022)**
-<img src="/assets/img/hack.jpeg" alt="" width="500"/>
+<img src="/assets/img/hack.jpeg" alt="" width="800"/>
 
 **with Ask**
 <img src="/assets/img/ask.jpeg" alt="" width="800"/>
 
 **Group Chrismas market visit (2022)**
-<img src="/assets/img/chris.jpeg" alt="" width="800"/>
+<img src="/assets/img/chri.jpeg" alt="" width="800"/>
 
