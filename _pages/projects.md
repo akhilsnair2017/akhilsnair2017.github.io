@@ -17,11 +17,28 @@ horizontal: false
   <img src="../assets/img/bayes.png" alt="Bayesian Illustration" style="width: 35%; height: auto; margin-left: 20px;">
 </div>
 
-## Explainable Artificial Intelligence
-In an ideal world, any AI system should be self-explinable, i.e., humans should be able to understand its interpretations. For instance, while a right prdiction of a material which is super hard (e.g.,high bulk modulus) is interesting, which fundamental properties of this material caused such a behaviour is more important for a model's universal adapatability. For achieving this, developing AI methods which incorporate the domain knowledge and thus acheive explainability is desirable. By using methods such as symbolic regression and physics-informed modelling, I try to discover the mathematical equations governing a phenomena demonstrated by a material. I am particularly interestd in material genomics, where the functions and properties of materials are attempted to be explained from the fundamental physico-chemical parameters.
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1; text-align: justify;">
+   <h2>Explainable Artificial Intelligence</h2>
+<p>In an ideal world, any AI system should be self-explinable, i.e., humans should be able to understand its interpretations. For instance, while a right prdiction of a material which is super hard (e.g.,high bulk modulus) is interesting, which fundamental properties of this material caused such a behaviour is more important for a model's universal adapatability. For achieving this, developing AI methods which incorporate the domain knowledge and thus acheive explainability is desirable. By using methods such as symbolic regression and physics-informed modelling, I try to discover the mathematical equations governing a phenomena demonstrated by a material. I am particularly interestd in material genomics, where the functions and properties of materials are attempted to be explained from the fundamental physico-chemical parameters.</p>
+  </div>
+  <img src="../assets/img/sisso.jpeg" alt="Symbolic Regression" style="width: 35%; height: auto; margin-left: 20px;">
+</div>
 
-## Devlopment of Computational Workflows
-Evaluation of material properties often involve multiple steps and often pose intricacies specific to that material. Hence when multiple materials with diverse properties are to be estimated, efficient computaional workflows need to be developed which can seamlessly automates and parellize many of these tasks. These workflows could be mission-driven (e.g.,building a database of a material category) or AI-guided (e.g., building a database of best thermal conductors starting from a few). I am interested in developing high-throughput frameworks which effectively integrates first principles simulations, AI models and high-throughput frameworks for efficient, reproducible materials simulations.
 
-## Complex Material Simulations
-For many important applications such as energy-storage or conversion, many of the potentially useful materials are complex in composition or (electronic)structure. Example categories are transition metal oxides (strong electron correlation), nanoclusters (quantum confinement) or solid-liquid interfaces (amorphous nature). Typical first principles based approaches are inadequate in accurately estimating the properties of such systems. By using tools such as beyond-DFT electronic structure methods, *ab initio* thermodynamics, cluster expansion and machine-learning interatomic potentials, I attempt to simulate such materials and evaluate their properties. Also I am interested in understanding the effect of real-time conditions such as pressure/temperature effects, interface charesteristics and defects.
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1; text-align: justify;">
+ <h2>Devlopment of Computational Workflows</h2>
+<p>Evaluation of material properties often involve multiple steps and often pose intricacies specific to that material. Hence when multiple materials with diverse properties are to be estimated, efficient computaional workflows need to be developed which can seamlessly automates and parellize many of these tasks. These workflows could be mission-driven (e.g.,building a database of a material category) or AI-guided (e.g., building a database of best thermal conductors starting from a few). I am interested in developing high-throughput frameworks which effectively integrates first principles simulations, AI models and high-throughput frameworks for efficient, reproducible materials simulations.</p>
+  </div>
+  <img src="../assets/img/workflow.png" alt="Symbolic Regression" style="width: 35%; height: auto; margin-left: 20px;">
+</div>
+
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1; text-align: justify;">
+<h2>Complex Material Simulations</h2>
+<p>For many important applications such as energy-storage or conversion, many of the potentially useful materials are complex in composition or (electronic)structure. Example categories are transition metal oxides (strong electron correlation), nanoclusters (quantum confinement) or solid-liquid interfaces (amorphous nature). Typical first principles based approaches are inadequate in accurately estimating the properties of such systems. By using tools such as beyond-DFT electronic structure methods, *ab initio* thermodynamics, cluster expansion and machine-learning interatomic potentials, I attempt to simulate such materials and evaluate their properties. Also I am interested in understanding the effect of real-time conditions such as pressure/temperature effects, interface charesteristics and defects.</p>
+  </div>
+  <img src="../assets/img/interface.jpeg" alt="Symbolic Regression" style="width: 35%; height: auto; margin-left: 20px;">
+</div>
