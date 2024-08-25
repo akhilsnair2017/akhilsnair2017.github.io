@@ -31,7 +31,7 @@ horizontal: false
  <h2>Devlopment of Computational Workflows</h2>
 <p>Evaluation of material properties often involve multiple steps and often pose intricacies specific to that material. Hence when multiple materials with diverse properties are to be estimated, efficient computaional workflows need to be developed which can seamlessly automates and parellize many of these tasks. These workflows could be mission-driven (e.g.,building a database of a material category) or AI-guided (e.g., building a database of best thermal conductors starting from a few). I am interested in developing high-throughput frameworks which effectively integrates first principles simulations, AI models and high-throughput frameworks for efficient, reproducible materials simulations.</p>
   </div>
-  <img src="../assets/img/workflow.png" alt="Symbolic Regression" style="width: 35%; height: auto; margin-left: 20px;">
+  <img src="../assets/img/workflow.png" alt="Symbolic Regression" style="width: 45%; height: auto; margin-left: 20px;">
 </div>
 
 
