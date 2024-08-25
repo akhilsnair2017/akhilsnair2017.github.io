@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Horst Fuchs
+N:Fuchs;Horst;;;
+BDAY:1945-06-30
+EMAIL;TYPE=HOME:Zahnfuchs@gmx.de
+ADR;TYPE=HOME:;;Eppinger Str. 24;Berlin;;14195;Deutschland
+END:VCARD
