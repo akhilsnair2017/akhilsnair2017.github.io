@@ -17,7 +17,9 @@ post: false
 I am a researcher with background in computational chemistry and matrials science. My current research interests involve material discovery and informatics. I primarly develop/use electronic structure and artificial intelligence methods for performing cheaper, faster and multi-scale material simulations.
 
 
-Feel free to [email](nair@fhi-berln.mpg.de) for any queries!
+Feel free to [email](nair@fhi-berln.mpg.de) for any queries
+
+Office address: T-Building, FHI-Berlin, Faradayweg 4-6, 14195
 
 <!--
 Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
