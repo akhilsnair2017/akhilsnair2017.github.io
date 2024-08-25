@@ -14,7 +14,7 @@ horizontal: false
     <h2>Probabilistic Machine Learning</h2>
     <p>Machine learning (ML) has emerged as a handy tool to make inferences from data, aiding decision-making processes. On the contrary to other areas, it is not straightforward to build generalizable ML workflows in disciplines such as materials science where due to the inherently interpolative nature, ML Models are prone to fail when deployed outside the domain of the training data. Since we are always interested in identifying/understanding materials with promising properties (and hence likely to be far from the training data distribution), the ML models should be able to signal about less-confident regions in materials space. By utilizing probability distributions to represent the unknowns, more accurate and informative ML pipelines could be built which can be employed for adaptive learning and knowledge generation. My studies in this direction involve both Bayesian and non-Bayesian approaches for uncertainty quantification, multi-modal learning, and design of experiments.</p>
   </div>
-  <img src="path/to/bayes.png" alt="Bayesian Illustration" style="width: 25%; height: auto; margin-left: 20px;">
+  <img src="../assets/img/bayes.png" alt="Bayesian Illustration" style="width: 25%; height: auto; margin-left: 20px;">
 </div>
 
 ## Explainable Artificial Intelligence
